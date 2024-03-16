@@ -17,6 +17,6 @@ The project consists of two main components: the master node and the slave nodes
 To run this project, you need Python 3.6 or later. Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/yourusername/distributed-computing-python-sockets.git
-cd distributed-computing-python-sockets
+git clone https://github.com/yourusername/distributed-computing-using-python-sockets.git
+cd distributed-computing-using-python-sockets
 ```
